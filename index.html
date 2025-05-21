@@ -7,9 +7,12 @@
 </head>
 <body>
     <script>
-        while(true){
+       let infinite = ()=>{
+         while(true){
             
         }
+    }
+    infinite()
     </script>
 </body>
 </html>
